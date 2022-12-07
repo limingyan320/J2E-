@@ -1,12 +1,12 @@
 //折叠菜单效果
 $(function () {
-    var Accordion = function (el, multiple) {
+    const Accordion = function (el, multiple) {
         this.el = el || {};
         this.multiple = multiple || false;
         var links = this.el.find('.link');
 
         links.on('click', {el: this.el, multiple: this.multiple}, this.dropdown)
-    }
+    };
 
     Accordion.prototype.dropdown = function (e) {
         var $el = e.data.el;

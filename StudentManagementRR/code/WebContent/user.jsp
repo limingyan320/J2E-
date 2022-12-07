@@ -89,7 +89,7 @@
 	
 	<footer>
 		<div class="copyright">
-			&copy; Copyright. All rights reserved. Design by <a href="http://www.github.com/Soarkey/">Soarkey</a>
+			&copy; Copyright. All rights reserved. Design by NUIST
 		</div>
 	</footer>
 

@@ -44,13 +44,13 @@
 	<footer>
 		<div class="info">
 				<ul>
-					<a href="#"><li>学生信息管理系统</li></a>
-					<a href="#"><li>帮助与反馈</li></a>
+					<a href="#"><li>获取帮助</li></a>
 					<a href="#"><li>联系我们</li></a>
+					<a href="#"><li>辱骂我们</li></a>
 				</ul>
 			</div>
 			<div class="copyright">
-				&copy; Copyright. All rights reserved. Design by <a href="http://www.github.com/Soarkey/">Soarkey</a>
+				&copy; Copyright. All rights reserved. Design by NUIST
 			</div>
 	</footer>
 </body>

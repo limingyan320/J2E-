@@ -9,7 +9,7 @@
 	<link rel="stylesheet" type="text/css" href="css/user&admin.css">
 	<link rel="icon" type="image/x-ico" href="images/stu.ico">
 </head>
-	
+
 <body>
 	<%
 		//获取登录成功的用户信息
@@ -112,7 +112,7 @@
 	
 	<footer>
 		<div class="copyright">
-			&copy; Copyright. All rights reserved. Design by <a href="http://www.github.com/Soarkey/">Soarkey</a>
+			&copy; Copyright. All rights reserved. Design by NUIST
 		</div>
 	</footer>
 
